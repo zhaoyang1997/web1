@@ -1,0 +1,13 @@
+.a2{
+	font-size:14px;
+}
+.a3 a:hover{
+	color:#b9f605;
+	text-decoration:none;
+}
+.ul{
+	list-style-type: disc;
+}
+.ul1{
+	list-style-image: url(../image/list.png);
+}
