@@ -1,0 +1,288 @@
+body{
+	font-size:12px;
+	font-family:'宋体';
+	color:#522a06;
+	background-image:url(../images/bodybg.gif);
+	line-height:2em;
+    margin: 0px;
+    width: 1600px;
+}
+a:link{
+    color:#522a06;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration: underline;
+}
+#header{
+	height: 205px;
+	background-image:url(../images/bg.gif);
+	
+}
+#banner{
+	width: 1000px;
+	height: 164px;
+    background-image: url(../images/logo.png);
+    background-position: 100px 38px;
+    background-repeat: no-repeat;
+}
+#nav{
+	height: 40px;
+	background-image: url(../images/nav.jpg);    
+}
+.nav_body{
+	width: 1000px;	
+}
+.nav_content {
+	width: 800px;
+	color: #fff;
+	font-weight: bolder;
+	line-height: 40px;
+    float: left;
+    position: relative;
+    left: 300px;
+}
+.nav_content  a{
+	width: 800px;
+	color: #fff;
+	font-weight: bolder;
+	line-height: 40px;
+}
+.nav_search{
+	width: 140px;
+	height: 19px;
+	float: left;
+	position: relative;
+	top: 10px;
+    left:260px;
+}
+.button{
+	width: 44px;
+	height:21px;
+	position: relative;
+	left: 280px;
+    top: 12px;
+	background-color: #000;
+	border: 1px solid #f8f5ee;
+	color: #fff;
+}
+#color{
+	color: #f9f603;
+}
+.nav_content a:hover{
+    color: #f9f603;
+    text-decoration: none;
+
+}
+#content{
+	width: 1500px;
+	height: 900px;
+    clear: left right;
+}
+#content_top{
+	overflow: hidden;
+	width:2000px;
+	height: 263px;
+}
+#content_bottom_left{
+    float:left;
+   	width: 1000px;
+}
+#content_bottom_right{
+	width: 400px;
+	height: 600px;
+	padding-top: 20px;
+	float: left;
+}
+.news_pic{
+	width: 324px;
+	height: 243px;
+	background-image: url(../images/news_bg.png);
+	float: left;
+	position: relative;
+	left:300px;
+	top: 20px;
+    background-repeat: no-repeat;
+}
+.photo1{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 11px;
+    left: 12px;
+}
+.wenzi{
+	width: 300px;
+	height: 20px;
+	position: relative;
+	top :-6px;
+	left: 90px;
+}
+.news_list{
+	width: 330px;
+	margin: 38px;
+	float: left;
+	background-image: url(../images/change.png);
+	position: relative;
+	left: 290px;
+	top: -20px;
+	background-repeat: no-repeat;
+}
+.photo2{
+	float: right;
+}
+.wenzi1{
+	line-height: 30px;
+	position: relative;
+	top: 20px;
+	left: -40px;
+}
+.time{
+	float: right;
+}
+.news_announce{
+	width:285px;
+	float: left;
+    position: relative;
+    left: 260px;
+}
+.background{
+	width:285px;
+	height: 210px;
+	background-image: url(../images/board_bg.png);
+	background-repeat: no-repeat;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+.photo3{
+    width: 150px;
+    height: 20px;
+    position: relative;
+    top:20px;
+    left: 70px;
+}
+.wenzi2{
+	line-height: 30px;
+	position: relative;
+    left: -10px;
+}
+.academic{
+	width: 340px;
+	background-image: url(../images/academic.png);
+	background-repeat: no-repeat;
+	position: relative;
+	left: 300px;
+	top: 20px;
+	float: left;
+}
+.photo4{
+	position: relative;
+	left: 320px;
+}
+.book_news{
+	width: 340px;
+	margin-left: 320px;
+	margin-top: 20px;
+	background-image: url(../images/book_news.png);
+	background-repeat: no-repeat;
+	float: left;
+}
+.photo5{
+	position: relative;
+	left: 320px;
+}
+.fengcai{
+	width: 700px;
+	height: 340px;
+	clear: both;
+	background-image: url(../images/fengcai_bg2.png);
+	background-repeat: no-repeat;
+	position: relative;
+	top: -190px;
+}
+.fengcai_bg{
+	background-image: url(../images/fengcai_bg1.png);
+	background-repeat: no-repeat;
+	position: relative;
+	top: 250px;
+	left: 280px;
+}
+.more{
+    position: relative;
+    left: 700px;
+    top: -250px;
+    float: left;
+}
+.photo6{
+	position: relative;
+	top:20px;
+	left: -15px;
+    display: inline;
+}
+.bg{
+	width: 362px;
+	height: 700px;
+    background-image: url(../images/show_bg.png);
+	background-repeat: no-repeat;
+	position: relative;
+	top:80px;
+	left: -110px;
+	float: right;
+}
+.show{
+    width: 100px;
+    float: left;
+    position: relative;
+    left: 80px;
+    top :-50px;
+}
+.mingjia{
+    float: left;
+    position: relative;
+    top: 10px;
+    left: -75px;
+} 
+.wenzi3{
+	width: 550px;
+	position: relative;
+	top: 200px;
+	left: -300px;
+}
+.view{
+	position: relative;
+	top: 190px;
+	left: -110px;
+
+}
+.wenzi4{
+	color: red;
+	font-weight: bolder;
+}
+.footer{
+	height: 20px;
+}
+.foot{
+	background-image: url(../images/foot.gif);
+	background-repeat: no-repeat;
+	clear: both;
+	position: relative;
+	top: 115px;
+}
+.yejiao{
+	position: relative;
+	top: 10px;
+	left: 550px;
+}
+.line{
+	position: relative;
+	top: 20px;
+	left: 100px;
+}
+.bianma{
+	position: relative;
+	left: 650px;
+}
+.color1{
+	color: #522a06;
+}
